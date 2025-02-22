@@ -128,7 +128,7 @@ movie-finder/
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/movie-finder.git
+   git clone https://github.com/danielullauri93/movie-finder.git
    cd movie-finder
    
 ---
@@ -208,7 +208,7 @@ movie-finder/
 1. Clona el repositorio:
 
    ```
-   git clone https://github.com/tu-usuario/movie-finder.git
+   git clone https://github.com/danielullauri93/movie-finder.git
    cd movie-finder
    
    2.  Instala las dependencias:
@@ -269,7 +269,7 @@ Pantalla de Detalles
 
 ***link:***
 
-`https://drive.google.com/file/d/1fKQPNg8MSsKyH3OUz-F9MuPbgdxoiB5m/view?usp=drive_link`
+[https://drive.google.com/file/d/1fKQPNg8MSsKyH3OUz-F9MuPbgdxoiB5m/view?usp=drive_link]
 
 ----------
 
